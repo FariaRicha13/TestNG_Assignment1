@@ -7,10 +7,10 @@ import org.openqa.selenium.support.PageFactory;
 
 import java.util.List;
 
-public class EmpoyeeInfoPage {
-    @FindBy(className = "")
+public class EmployeeInfoPage {
+    @FindBy(className = "oxd-input")
     public List<WebElement>empId;
-    public EmpoyeeInfoPage(WebDriver driver)
+    public EmployeeInfoPage(WebDriver driver)
     {
         PageFactory.initElements(driver, this);
     }
