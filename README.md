@@ -38,7 +38,7 @@
 https://docs.google.com/spreadsheets/d/1ZOQJYkBOGwTJCSrDVqPS7MJi9quqP7ot8wv0SJgwxG4/edit#gid=0
 
 ## OUTPUT
-https://app.screencast.com/WcrD5pRfejTM1
-https://app.screencast.com/fB4R9wLeUyb63
-https://app.screencast.com/dUPlMBgFXOO9x
+-https://app.screencast.com/WcrD5pRfejTM1
+-https://app.screencast.com/fB4R9wLeUyb63
+-https://app.screencast.com/dUPlMBgFXOO9x
 
